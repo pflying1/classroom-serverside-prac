@@ -1,6 +1,6 @@
 /*
  * "문서" vs app server 와 서로 통신하는 방법 "AJAX"
- * 1. XMLHttpRequest : 클래식한 방법이자 server의 response 응답패텅닝 비슷하다.
+ * 1. XMLHttpRequest : 클래식한 방법이자 server의 response 응답패턴이 비슷하다.
  * 2. fetch : Promise 기반의 선언형 통신 방법, Promise의 장점을 살리면서도 간략하다.
  * 대표적인 두 가지 방법이 '사람을 대신해' 서버와의 요청응답을 처리한다.
  */
